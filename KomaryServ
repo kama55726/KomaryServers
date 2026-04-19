@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2546249531
 #support-url: https://t.me/KomaryVpnBot
 #profile-web-page-url: https://t.me/KomaryVpnBot
-#announce: UPD: 23:17 18.04.26 | TG: https://t.me/KomaryVpn | 55 Серверов
+#announce: UPD: 20:38 19.04.26 | TG: https://t.me/KomaryVpn | 55 Серверов
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com#🇳🇱 0001 | Быстрый ⚡ (LTE)
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com#🇳🇱 0002 | Быстрый ⚡ (LTE)
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇳🇱 0003 | Быстрый ⚡ (LTE)
@@ -45,18 +45,20 @@ vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&se
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&security=tls&sni=daluan.eu.org&type=ws&host=daluan.eu.org#🇸🇪 0039 | Быстрый ⚡ (WiFi)
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&security=tls&sni=daluan.eu.org&fp=chrome&type=ws&host=daluan.eu.org&path=%2F#🇪🇺 0040 | Быстрый ⚡ (WiFi)
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?encryption=none&security=tls&sni=daluan.eu.org&type=ws&host=daluan.eu.org#🇪🇺 0041 | Быстрый ⚡ (WiFi)
-vless://d3f088a5-58d6-4dc6-adab-54d74e339c62@193.233.251.103:869?security=reality&encryption=none&pbk=lggRqXlpIE3Pirqc1G_CZUn3oITFtmzvYNvGsEdEcDA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=999999#🇷🇺0042 | Белые списки 📡 (LTE)
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#🇩🇪0042 | Телеграм 💊 (LTE)
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@212.92.101.195:52006?security=tls&encryption=none&alpn=http/1.1&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#🇷🇺0043 | Белые списки 📡 (LTE)
 vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.60:52006?security=tls&encryption=none&alpn=http/1.1&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#🇷🇺0044 | Белые списки 📡 (LTE)
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#🇷🇺0045 | Белые списки 📡 (LTE)
-vless://3b7e7ab6-feb0-4c12-b575-b5b2b8e7b8e5@it3.lazeroe.com:443?mode=auto&path=%2Fws&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1.0%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%7D&pbk=i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo&fp=chrome&allowinsecure=0&type=xhttp&sni=it3.lazeroe.com&sid=6f9ae5be33ead6f9#🇷🇺0046 | Белые списки 📡 (LTE)
-vless://3b7e7ab6-feb0-4c12-b575-b5b2b8e7b8e5@45.139.26.163:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo&fp=qq&allowinsecure=0&type=xhttp&sni=kzz1.figurapn.ru&sid=6f9ae5be33ead6f9#🇷🇺0047 | Быстрый ⚡ (WiFi)
-vless://b960ed61-d7b0-03ef-a39f-484726e2ad66@eu.bridge.raw-srv.org:443?security=reality&encryption=none&pbk=HsKBZVsE7puWHs8AzpHhf5eEwj0imv51at6GRRmLs0A&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eu.bridge.raw-srv.org&sid=54150a1d4a31894b#🇩🇪0048 | Быстрый ⚡ (WiFi)
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#🇷🇺0046 | Соцсети 🌍 (WiFi)
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#🇵🇱0047 | Соцсети 🌍 (WiFi)
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#🇵🇱0048 | Универсальный ⭐ (WiFi)
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=daluan.eu.org&fp=chrome&allowinsecure=0&type=ws&sni=daluan.eu.org#🇺🇸0049 | Быстрый ⚡ (WiFi)
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&allowinsecure=0&type=ws&sni=daluan.eu.org#🇺🇸0050 | Быстрый ⚡ (WiFi)
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?path=%2F&security=tls&encryption=none&host=daluan.eu.org&allowinsecure=0&type=ws&sni=daluan.eu.org#🇺🇸0051 | Быстрый ⚡ (WiFi)
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?path=%2F&security=tls&encryption=none&host=daluan.eu.org&allowinsecure=0&type=ws&sni=daluan.eu.org#🇺🇸0051 | Быстрый ⚡ (WiFi)
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=%2F%40OnNetVpn&security=tls&encryption=none&host=powered-by-surena.configfarsi695fcee895881.workers.dev&fp=chrome&allowinsecure=0&type=ws&sni=powered-by-surena.configfarsi695fcee895881.workers.dev#🇺🇸0052 | Быстрый ⚡ (WiFi)
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2083?path=%2F%25252F&security=tls&encryption=none&host=cIAllO-EGB.pAGES.dev&allowinsecure=0&type=ws#🇺🇸0053 | Быстрый ⚡ (WiFi)
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#🇷🇺0053 |  YT без рекламы 🖥️ (WiFi)
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&allowinsecure=0&type=ws&sni=daluan.eu.org#🇬🇧0054 | Быстрый ⚡ (WiFi)
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&allowinsecure=0&type=ws&sni=daluan.eu.org#🇬🇧0055 | Быстрый ⚡ (WiFi)
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#🇷🇺0056 | Универсальный ⭐ (LTE)
+vless://91bbe282-f2ba-46a6-8752-36ae55279169@yes.normbot.ru:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yes.normbot.ru&sid=d869895b2a50728d#🇪🇪0057 | Универсальный ⭐ (WiFi)
