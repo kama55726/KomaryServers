@@ -3,15 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2546249531
 #support-url: https://t.me/KomaryVpnBot
 #profile-web-page-url: https://t.me/KomaryVpnBot
-#announce: UPD: 0:31 25.04.26 | TG: https://t.me/KomaryVpn | 29 Серверов
+#announce: UPD: 0:40 25.04.26 | TG: https://t.me/KomaryVpn | 29 Серверов
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com#🇳🇱 0001 | Быстрый ⚡ (LTE)
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com#🇳🇱 0002 | Быстрый ⚡ (LTE)
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇳🇱 0003 | Быстрый ⚡ (LTE)
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=0&sni=www.cloudflare.com#🇳🇱 0004 | Быстрый ⚡ (LTE)
-trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇷🇺 0005 | Белые списки 📡 (LTE)
-trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%25252F&Host=jflsjlaf.pages.dev#🇷🇺 0006 | Белые списки 📡 (LTE)
-trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%25252F&Host=jflsjlaf.pages.dev#🇷🇺 0007 | Белые списки 📡 (LTE)
-trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%25252F&Host=jflsjlaf.pages.dev#🇷🇺 0008 | Белые списки 📡 (LTE)
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#🇷🇺0005 | YT БЕЗ РЕКЛАМЫ 📺 (LTE)
+vless://776e8267-345d-4673-c3a7-53790540f082@166.1.131.6:20447?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cloudcdn-m9-14.cdn.yandex.net#🇸🇪0006 | Быстрый ⚡ (LTE)
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.43:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#🇷🇺0026 | Белые списки 📡 (LTE)
+vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru#🇳🇱0007 | Быстрый ⚡ (LTE)
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-de-2.firstvideocdn.ru#🇵🇱0008 | Быстрый ⚡ (LTE)
 hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru#🇩🇪0009 | Быстрый ⚡ (LTE)
 hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1#🇷🇺0010 | Белые списки 📡 (LTE)
 hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru#🇩🇪0011 | Быстрый ⚡ (LTE)
@@ -27,9 +28,4 @@ hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8041/?insecure
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002/?insecure=1&sni=rbc.ru#🇷🇺0021 | Белые списки 📡 (LTE)
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8041/?insecure=1&sni=market.yandex.ru#🇷🇺0022 | YT БЕЗ РЕКЛАМЫ 📺 (LTE)
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8041?headerType=none&encryption=none&sni=market.yandex.ru&insecure=1#🇷🇺0023 | YT БЕЗ РЕКЛАМЫ 📺 (LTE)
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#🇷🇺0024 | YT БЕЗ РЕКЛАМЫ 📺 (LTE)
-vless://776e8267-345d-4673-c3a7-53790540f082@166.1.131.6:20447?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cloudcdn-m9-14.cdn.yandex.net#🇸🇪0025 | Быстрый ⚡ (LTE)
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.43:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#🇷🇺0026 | Белые списки 📡 (LTE)
-vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru#🇳🇱0027 | Быстрый ⚡ (LTE)
-vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-de-2.firstvideocdn.ru#🇵🇱0028 | Быстрый ⚡ (LTE)
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-de-2.firstvideocdn.ru#🇩🇪0029 | Быстрый ⚡ (LTE)
