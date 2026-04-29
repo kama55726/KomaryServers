@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2546249531
 #support-url: https://t.me/KomaryVpnBot
 #profile-web-page-url: https://t.me/KomaryVpnBot
-#announce: UPD: 16:37 29.04.26 | TG: https://t.me/KomaryVpn | 28 Серверов
+#announce: UPD: 19:20 29.04.26 | TG: https://t.me/KomaryVpn | 28 Серверов
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com##🇳🇱1 Нидерланды 🚀 
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com##🇳🇱2 Нидерланды 🚀 
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50##🇳🇱3 Нидерланды 🚀 
@@ -14,8 +14,8 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.3:52006?security=tls&enc
 vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru##🇳🇱8 Нидерланды 🚀
 vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-de-1.firstvideocdn.ru##🇵🇱9 Польша ⚡
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇩🇪10 Германия 🚀
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1##🇷🇺11 Белые списки 📡 
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru##🇩🇪12 Германия 🚀
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇷🇺11 Россия — YouTube 🎬
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cl-de-2.edgeflux.ru##🇩🇪12 Германия 🚀
 vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru##🇳🇱14 Нидерланды 🚀
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇫🇮15 Финляндия 🚀
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos.ksnodes.net:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ukos.ksnodes.net##🇬🇧16 Великобритания 🚀
@@ -29,5 +29,5 @@ vless://75807638-6f19-0fa0-ae08-38492ee85c88@87.228.124.212:52006?security=tls&e
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@178.72.181.125:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇫🇮24 Финляндия 🚀
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@178.72.181.129:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇫🇮25 Финляндия 🚀
 vless://75807638-6f19-0190-ae08-38492ee85c88@cl-oth-1.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇯🇵26 Япония 🚀
-vless://7e9a39eb-a9b0-2e38-26da-d27b1a95904d@84.252.101.99:8449?security=reality&encryption=none&pbk=fkyi1t1t2L-ER79yU5P2HTBTgFG03GyeY9FjNQpkfiE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=55555555##🇪🇪27 Эстония 🚀
+vless://0bf0ab36-63a2-4d63-84b7-68c8cb595e34@195.238.126.221:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=goya.rutube.ru&sid=6da16b1335651b38##🇱🇹27 Литва 🚀
 vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇳🇱28 Нидерланды 🚀
