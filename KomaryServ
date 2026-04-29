@@ -3,39 +3,31 @@
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2546249531
 #support-url: https://t.me/KomaryVpnBot
 #profile-web-page-url: https://t.me/KomaryVpnBot
-#announce: UPD: 18:17 28.04.26 | TG: https://t.me/KomaryVpn | 35 Серверов
+#announce: UPD: 16:37 29.04.26 | TG: https://t.me/KomaryVpn | 28 Серверов
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com##🇳🇱1 Нидерланды 🚀 
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com##🇳🇱2 Нидерланды 🚀 
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50##🇳🇱3 Нидерланды 🚀 
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=0&sni=www.cloudflare.com##🇳🇱4 Нидерланды 🚀 
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@185.175.47.238:4443?security=none&encryption=none&headerType=none&type=tcp##🇷🇺5 Россия — YouTube 🎬
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇷🇺5 Россия — YouTube 🎬
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?security=tls&encryption=none&alpn=http/1.1,h2&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision-udp443&sni=finl9.keepsecured.net##🇫🇮6 Финляндия 🚀
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.7:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws##🇷🇺7 Белые списки 📡
+vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.3:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇷🇺7 Россия — YouTube 🎬
 vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru##🇳🇱8 Нидерланды 🚀
 vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-de-1.firstvideocdn.ru##🇵🇱9 Польша ⚡
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru##🇩🇪10 Германия 🚀
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇩🇪10 Германия 🚀
 hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1##🇷🇺11 Белые списки 📡 
 hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru##🇩🇪12 Германия 🚀
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru##🇷🇺13 Россия — YouTube 🎬
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru##🇷🇺14 Белые списки 📡 
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru##🇷🇺15 Белые списки 📡 
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru##🇷🇺16 Белые списки 📡 
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:7081?headerType=none&encryption=none&sni=rzd.ru&insecure=1##🇷🇺17 Белые списки 📡 
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:443/?insecure=1&sni=rbc.ru##🇷🇺18 Белые списки 📡 
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:443/?insecure=1&sni=rbc.ru##🇷🇺19 Белые списки 📡 
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8002/?insecure=1&sni=rbc.ru##🇷🇺20 Белые списки 📡 
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8041/?insecure=1&sni=market.yandex.ru##🇷🇺21 Белые списки 📡 
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002/?insecure=1&sni=rbc.ru##🇷🇺22 Белые списки 📡 
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8041/?insecure=1&sni=market.yandex.ru##🇷🇺23 Россия — YouTube 🎬
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8041?headerType=none&encryption=none&sni=market.yandex.ru&insecure=1##🇷🇺24 Россия — YouTube 🎬
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@berocd.herumhas.shop:9443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision##🇩🇪25 Германия 🚀
-vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru##🇳🇱26 Нидерланды 🚀
-vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇫🇮27 Финляндия 🚀
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos.ksnodes.net:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ukos.ksnodes.net##🇬🇧28 Великобритания 🚀
-vless://75807638-6f19-03e8-ae08-38492ee85c88@178.72.181.49:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇩🇪29 Германия — Telegram 💊
-vless://75807638-6f19-0fa0-ae08-38492ee85c88@87.228.124.212:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇹🇷30 Турция 🚀
-vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇳🇱31 Нидерланды 🚀
-vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇵🇱32 Польша — Telegram 💊
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.132:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cluster-de-1.firstvideocdn.ru##🇵🇱33 Польша — Telegram 💊
-vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇳🇱34 Нидерланды 🚀
-vless://75807638-6f19-0fa0-ae08-38492ee85c88@87.228.124.212:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇹🇷35 Турция 🚀
+vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru##🇳🇱14 Нидерланды 🚀
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇫🇮15 Финляндия 🚀
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos.ksnodes.net:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ukos.ksnodes.net##🇬🇧16 Великобритания 🚀
+vless://75807638-6f19-03e8-ae08-38492ee85c88@178.72.181.49:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇩🇪17 Германия — Telegram 💊
+vless://75807638-6f19-0fa0-ae08-38492ee85c88@87.228.124.212:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇹🇷18 Турция 🚀
+vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇳🇱19 Нидерланды 🚀
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇵🇱20 Польша — Telegram 💊
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.132:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cluster-de-1.firstvideocdn.ru##🇵🇱21 Польша — Telegram 💊
+vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇳🇱22 Нидерланды 🚀
+vless://75807638-6f19-0fa0-ae08-38492ee85c88@87.228.124.212:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇹🇷23 Турция 🚀
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@178.72.181.125:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇫🇮24 Финляндия 🚀
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@178.72.181.129:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇫🇮25 Финляндия 🚀
+vless://75807638-6f19-0190-ae08-38492ee85c88@cl-oth-1.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇯🇵26 Япония 🚀
+vless://7e9a39eb-a9b0-2e38-26da-d27b1a95904d@84.252.101.99:8449?security=reality&encryption=none&pbk=fkyi1t1t2L-ER79yU5P2HTBTgFG03GyeY9FjNQpkfiE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=55555555##🇪🇪27 Эстония 🚀
+vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇳🇱28 Нидерланды 🚀
