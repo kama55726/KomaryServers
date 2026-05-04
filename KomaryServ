@@ -3,11 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2546249531
 #support-url: https://t.me/KomaryVpnBot
 #profile-web-page-url: https://t.me/KomaryVpnBot
-#announce: UPD: 15:12 04.05.26 | TG: https://t.me/KomaryVpn | 35 Серверов
+#announce: UPD: 16:39 04.05.26 | TG: https://t.me/KomaryVpn | 35 Серверов
 vless://a0e4e8b6-0518-4f19-803e-eece71583392@50.117.3.184:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16##🇺🇸1 США 🚀
 vless://a0e4e8b6-0518-4f19-803e-eece71583392@195.238.126.221:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=goya.rutube.ru&sid=6da16b1335651b38##🇱🇹2 Литва 🚀
 vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.162.252:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru##🇳🇱3 Нидерланды 🚀
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.25:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision-udp443&sni=cluster-europe-1.firstvideocdn.ru##4 Нидерланды 🚀 
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.25:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision-udp443&sni=cluster-europe-1.firstvideocdn.ru##🇳🇱4 Нидерланды 🚀 
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇷🇺5 Россия — YouTube 🎬
 vless://a0e4e8b6-0518-4f19-803e-eece71583392@50.117.3.183:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16##🇺🇸6 США 🚀
 vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.3:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇷🇺7 Россия — YouTube 🎬
@@ -33,9 +33,10 @@ vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.182.25:52006?security=tls&en
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@158.160.43.3:443?mode=gun&security=reality&encryption=none&authority=&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=ads.x5.ru##🇨🇭27 Швейцария 🚀
 vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇳🇱28 Нидерланды 🚀
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@158.160.43.3:443?mode=gun&security=reality&encryption=none&authority=&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=1c.ru##🇨🇭29 Швейцария 🚀
-vless://3b95fcac-599b-4c55-bc26-89e63f9a1bd6@194.87.104.158:443?security=reality&encryption=none&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2da46294d6a521b2##🇰🇿30 Казахстан 🚀
+vless://7a4bea1e53074fdc98cc1fc8bcd4abc5@51.250.68.32:443?security=reality&encryption=none&pbk=0NRN6rlZGinrfisXA8hFYH1_jsyOKwqkhacMV_LCLnM&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=i.oneme.ru&sid=aabbccdd##🇫🇷30 Франция 🚀
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇩🇪31 Германия 🚀
 vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@205.172.56.16:443?security=reality&encryption=none&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=aabbccdd##🇺🇸32 США 🚀
 vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.25:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision-udp443&sni=cluster-europe-1.firstvideocdn.ru##🇳🇱33 Нидерланды 🚀
 vless://f6808c62-cfe0-438c-aae6-44fe6ef51e47@o11111o.club.alexander77.ru:8082?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com##🇩🇪34 Германия 🚀
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇩🇪35 Германия 🚀
+trojan://f8a6ccdaf2f8474b8287a43757951293@51.250.87.19:9443?security=reality&pbk=AgE09mNrPAe9eidpIgw9gVKLC71TgG4L4ctuB3wttiw&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=5post-gate.x5.ru&sid=aabbccdd##🇫🇮36 Test
