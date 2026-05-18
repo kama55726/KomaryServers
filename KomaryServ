@@ -3,13 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2546249531
 #support-url: https://t.me/KomaryVpnBot
 #profile-web-page-url: https://t.me/KomaryVpnBot
-#announce: UPD: 16:45 18.05.26 | TG: https://t.me/KomaryVpn | 9 Серверов
+#announce: UPD: 18:38 18.05.26 | TG: https://t.me/KomaryVpn | 7 Серверов 
+vless://2075f8d7-0f7a-Fade-9de5-e77632611a13@195.209.82.149:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=s28233.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s28233.cdn.ngenix.net#Извините сайчас временно дефицит серверов
+vless://2075f8d7-0f7a-Fade-9de5-e77632611a13@195.209.88.216:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=s28233.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s28233.cdn.ngenix.net#Сервера будут работать стабильнее через 1-5 дней
 vless://73ea81a4-6cd5-fade-b3e6-bf4dd74256fc@195.209.82.149:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=s28233.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s28233.cdn.ngenix.net##🇺🇸1 США - Белые списки 📡
-vless://8c23fba8-f1ce-45b8-8f6e-112e1684256f@5.42.108.243:443?security=reality&encryption=none&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rruu.persik.host&sid=c1a7e9b4711d5f60##🇷🇺2 Россия
-vless://2d9410c0-07c7-4814-acb0-e5c2d87218c9@5.42.108.243:443?security=reality&encryption=none&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rruu.persik.host&sid=c1a7e9b4711d5f60##🇷🇺3 Россия
-vless://b3f0a297-c0ab-4e66-bdf2-53644ed7baa8@5.42.108.243:443?security=reality&encryption=none&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rruu.persik.host&sid=c1a7e9b4711d5f60##🇷🇺4 Россия
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?security=tls&fm=%7B%7D&allowinsecure=1&sni=s463.okgfwbackxyz.xyz##🇷🇺5 Россия 
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=s463.okgfwbackxyz.xyz##🇷🇺6 Россия 
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=s463.okgfwbackxyz.xyz##🇷🇺7 Россия 
-vless://a022235c-f775-457e-b072-8a00a211b76f@91.219.227.189:7443?security=reality&encryption=none&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=max.ru&sid=7dbf7d3233971d5c##🇹🇷8 Турция 🚀
-vless://2075f8d7-0f7a-Fade-9de5-e77632611a13@195.209.90.178:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=s28233.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s28233.cdn.ngenix.net##🇺🇸9 США 🚀
+vless://2075f8d7-0f7a-Fade-9de5-e77632611a13@195.209.90.178:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=s28233.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s28233.cdn.ngenix.net##🇺🇸2 США 🚀
+vless://267e7ff1-a96f-42bb-9e3c-a2295390774d@ydlte.fluxorvpn.net:443?security=reality&encryption=none&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=d7e1a111##🇷🇺3 Россия 
+vless://267e7ff1-a96f-42bb-9e3c-a2295390774d@ydlte.fluxorvpn.net:8443?security=reality&encryption=none&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=dde66ef1##🇷🇺4 Россия
+vless://f3498ad9-31e1-4027-9410-7076cafcc7e5@edgemskt2.appav.online:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ir.ozone.ru&sid=6da16b1335651b38##🇷🇺5 Россия
