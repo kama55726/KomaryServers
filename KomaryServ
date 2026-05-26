@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2546249531
 #support-url: https://t.me/KomaryVpnBot
 #profile-web-page-url: https://t.me/KomaryVpnBot
-#announce: UPD: 21:50 26.05.26 | TG: https://t.me/KomaryVpn | 9 Серверов 
+#announce: UPD: 22:52 26.05.26 | TG: https://t.me/KomaryVpn | 10 Серверов 
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=s463.okgfwbackxyz.xyz##🇷🇺1 Россия 
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=s463.okgfwbackxyz.xyz##🇷🇺2 Россия 
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?security=tls&fm=%7B%7D&allowinsecure=1&sni=s463.okgfwbackxyz.xyz##🇷🇺3 Россия
@@ -13,3 +13,4 @@ vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?security=none&e
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?security=none&encryption=none&headerType=none&type=tcp##🇷🇺7 Россия — Youtube 📺
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?security=none&encryption=none&headerType=none&type=tcp##🇷🇺8 Россия — Youtube 📺
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?security=none&encryption=none&headerType=none&type=tcp##🇷🇺9 Россия — Youtube 📺
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru##🇪🇪10 Эстония 🚀
