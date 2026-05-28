@@ -3,14 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2546249531
 #support-url: https://t.me/KomaryVpnBot
 #profile-web-page-url: https://t.me/KomaryVpnBot
-#announce: UPD: 22:52 26.05.26 | TG: https://t.me/KomaryVpn | 10 Серверов 
+#announce: UPD: 20:27 28.05.26 | TG: https://t.me/KomaryVpn | 11 Серверов 
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=s463.okgfwbackxyz.xyz##🇷🇺1 Россия 
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=s463.okgfwbackxyz.xyz##🇷🇺2 Россия 
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?security=tls&fm=%7B%7D&allowinsecure=1&sni=s463.okgfwbackxyz.xyz##🇷🇺3 Россия
-vless://6343ce34-3357-45cc-9c94-64501f232d06@95.85.229.247:443?security=reality&encryption=none&pbk=jY_8Ie_jAzScf94tyz152mXFWeHizA2SjBgJ3KedqHg&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=480161102e58c1b3##🇵🇱4 Польша 🚀
-trojan://fde84658-f03b-430a-a86f-c32cb1a2cdad@141.193.213.199:443?path=%2Fimages&security=tls&host=ehofhoe.bpuk2026.top&allowinsecure=0&type=ws&sni=0o3vr2n5k2.bpuk2026.top##🇬🇧5 Великобритания 🚀
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?security=none&encryption=none&headerType=none&type=tcp##🇷🇺6 Россия — Youtube 📺
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?security=none&encryption=none&headerType=none&type=tcp##🇷🇺7 Россия — Youtube 📺
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?security=none&encryption=none&headerType=none&type=tcp##🇷🇺8 Россия — Youtube 📺
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?security=none&encryption=none&headerType=none&type=tcp##🇷🇺9 Россия — Youtube 📺
+vless://9ee79303-e095-40f5-8fb8-363d87e90465@85.93.10.106:443?security=reality&encryption=none&pbk=jxFvY1W8mS7K8aKMJIsJwbA0MyO4WujHiOVUO-H4T2c&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=currency.rest##🇩🇪4 Германия 🚀
+vless://61419a93-e318-4f37-938b-e1e178c5b806@top3943405450.mwscdn.ru:443?mode=auto&path=%2Fxhttppath&security=tls&encryption=none&fp=chrome&allowinsecure=0&type=xhttp&sni=top3943405450.mwscdn.ru##🇩🇪5 Германия 🚀
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?mode=packet-up&path=%2Flivestreamcontent%2F&security=tls&encryption=none&host=top3739667002.mwscdn.ru&allowinsecure=0&type=xhttp&sni=top3739667002.mwscdn.ru##🇲🇩6 Молдова 🚀
+vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com##🇳🇱7 Нидерланды 🚀
+trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com##🇫🇷8 Франция 🚀
+vless://Tel:Arshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&encryption=none&alpn=h2,http/1.1&host=omm.kotlet.org&fp=firefox&allowinsecure=1&type=xhttp&sni=soft98.ir##🇫🇷9 Франция 🚀
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru##🇪🇪10 Эстония 🚀
+vless://bdddc783-a4f3-47f7-8850-21416d0a31f1@urban-union.scan-cdn.com:9443?security=reality&encryption=none&pbk=Mjvrfyqmdca5P4C1g-onuIzctu3duPXj10QvuCwYW3Y&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8dfa2a72581edaad##🇺🇸11 США 🚀
