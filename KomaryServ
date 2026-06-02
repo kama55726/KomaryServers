@@ -3,10 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=2546249531
 #support-url: https://t.me/KomaryVpnBot
 #profile-web-page-url: https://t.me/KomaryVpnBot
-#announce: UPD: 22:33 01.06.26 | TG: https://t.me/KomaryVpn | 6 Серверов 
-vless://a6d5a889-2a4a-4b31-8892-e0820188e921@141.193.213.30:443?path=%2Fmy-wbv&security=tls&encryption=none&host=www.genflix.co.id.cyylr.eu.cc&allowinsecure=0&type=ws&sni=www.genflix.co.id.cyylr.eu.cc##🇸🇪1 Швеция 🚀
+#announce: UPD: 22:45 02.06.26 | TG: https://t.me/KomaryVpn | 8 Серверов 
+vless://@a_amr79@141.193.213.11:443?path=%2Fmy-wbv&security=tls&encryption=none&host=unnes.ac.id.cyylr.eu.cc&fp=chrome&allowinsecure=0&type=ws&sni=unnes.ac.id.cyylr.eu.cc##🇸🇪1 Швеция 🚀
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImFsbG93aW5zZWN1cmUiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsImlkIjoiZGY5YzkzNTUtYjAyYy00YzEyLTkwOWQtMGRiZWI3MjVkNTJiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOiI0NDMiLCJwcyI6IiPwn4ez8J+HsTIg0J3QuNC00LXRgNC70LDQvdC00Ysg8J+agCIsInNjeSI6ImF1dG8iLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388##🇳🇱3 Нидерланды 🚀
 vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?mode=auto&path=%2Flivestreamcontent%2F&security=tls&encryption=none&host=top3739667002.mwscdn.ru&allowinsecure=0&type=xhttp&sni=top3739667002.mwscdn.ru##🇲🇩4 Молдова 🚀
-hysteria2://ec5110b0-17d4-4660-b5ad-40f2d24885f9@wlte6.nimarko.org:8448?security=tls&fm=%7B%7D&allowinsecure=0&sni=testing5.nimarko.org##🇵🇱5 Польша 🚀
-vless://33612cbf-0639-4285-81da-f88eba1d4f85@cloud.cdnru.net:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cloud.cdnru.net##🇷🇺6 Россия — YouTube 📺
+vless://@a_amr79@141.193.213.11:443?path=%2Fmy-wbv&security=tls&encryption=none&host=unnes.ac.id.cyylr.eu.cc&allowinsecure=0&type=ws&sni=unnes.ac.id.cyylr.eu.cc##🇳🇱5 Нидерланды 🚀
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com##🇭🇺6 Венгрия 🚀
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.227:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com##🇭🇺7 Венгрия 🚀
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.91:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com##🇭🇺8 Венгрия 🚀
+🇭🇺
